@@ -2,6 +2,6 @@
 - 👀 I’m interested in any sort of collabration for projects 
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on a fullstack project
-- 📫 To connect with me just DM me on my insta dark_abhin
+- 📫 To connect with me just DM me on my insta abh1.naw
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: i am super into asian chicks 🐥 
