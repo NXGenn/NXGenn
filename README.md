@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building, bre
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NXGenne&show_icons=true&theme=github_dark&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NXGenne&show_icons=true&theme=github_dark&hide_border=true)(https://github.com/NXGenn/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NXGenn&layout=compact&theme=github_dark&hide_border=true)
 
