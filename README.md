@@ -21,14 +21,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building, bre
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NXGenn&show_icons=true&count_private=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NXGenn&layout=compact&count_private=true&theme=github_dark&hide_border=true)
-
----
-
 ## ✨ Fun Facts
 
 - 💭 I believe in building tools that make people's lives easier
@@ -36,8 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building, bre
 - 🧩 Always up for a good puzzle or logic problem
 
 ---
-
-
 
 ## 📍 Let's Connect!
 
