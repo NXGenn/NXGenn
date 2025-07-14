@@ -19,12 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building, bre
 - 🌐 Portfolio: Still brainstorming for design (Don't want something from youtube )  
 - 📫 How to reach me: abhinawk004@gmail.com 
 ---
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NXGenn&show_icons=true&count_private=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NXGenn&layout=compact&count_private=true&theme=github_dark&hide_border=true)
----
 
 ## ✨ Fun Facts
 
